@@ -1,4 +1,4 @@
-# name: Build and Deploy Djan go Application
+# name: Build and Deploy Django Application
 
 # on:
 #   push:
