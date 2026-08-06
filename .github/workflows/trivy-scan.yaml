@@ -1,5 +1,5 @@
 name: Scan Docker Image CI Pipeline 1
- 
+
 on:
   workflow_dispatch:
 jobs:
