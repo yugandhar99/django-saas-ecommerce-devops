@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 permissions:
     contents: write   
- 
+
 jobs:
   CodeScan-Analysis:
     runs-on: ubuntu-latest
