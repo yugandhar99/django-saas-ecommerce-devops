@@ -1,5 +1,5 @@
-# name: Build and Deploy Django Application
-
+# name: Build and Deploy Django Application 
+ 
 # on:
 #   push:
 #     branches: ['master']
