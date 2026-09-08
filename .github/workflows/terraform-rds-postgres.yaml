@@ -1,6 +1,6 @@
 # name: "Terraform Pipeline AWS RDS Postgres"
  
-# on:
+# on: 
 #  push:
 #    branches: ['master']
 #  pull_request:
