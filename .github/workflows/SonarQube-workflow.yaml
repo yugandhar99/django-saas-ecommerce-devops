@@ -1,5 +1,5 @@
 name: "sonar_cloud_scan"
-# Use GitHub Actions secret for authentication
+# Use GitHub Actions secret for authentication 
 ## 111${{ secrets.GITHUB_TOKEN }}5553
 on:
   workflow_dispatch:
