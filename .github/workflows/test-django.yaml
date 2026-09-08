@@ -1,5 +1,5 @@
 # name: Django CI & Postgres Test
-# on: 
+# on:
 #   push:
 #     branches: ['master']
 #   pull_request:
