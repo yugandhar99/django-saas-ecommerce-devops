@@ -1,5 +1,5 @@
 git config --global user.name "yugandhar99"
-git config --global user.email "yugandharethamukkala1999@gmail.com" 
+git config --global user.email "yugandharethamukkala1999@gmail.com"
 # Set GITHUB_TOKEN environment variable
 # Do not store GitHub tokens in git config. Use a credential manager or GitHub CLI authentication.
 git config credential.helper store
