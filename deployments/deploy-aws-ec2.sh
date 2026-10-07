@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-EC2_IP="your_ec2_public_ip"
+EC2_IP="your_ec2_public_ip" 
 EC2_USER="ec2_user"
 SSH_KEY="path_to_your_ssh_key.pem"
 DOCKER_IMAGE="your_docker_image_name"
