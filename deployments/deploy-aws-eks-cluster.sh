@@ -3,7 +3,7 @@
 # Variables
 KUBECONFIG="/root/.kube/config"
 NAMESPACE="prodxcloud-django-web"
-DOCKER_IMAGE="yugandhar99/prodxcloud-django-web:latest" 
+DOCKER_IMAGE="yugandhar99/prodxcloud-django-web:latest"
 DEPLOYMENT_NAME="prodxcloud-django-web"
 SERVICE_NAME="mycluster"
 PORT=8585
