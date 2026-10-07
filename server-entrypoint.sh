@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 set -eu
-
+ 
 until python manage.py migrate
 do
     echo "Waiting for db to be ready..."
